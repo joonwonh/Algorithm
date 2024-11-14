@@ -1,2 +1,2 @@
 # Algorithm
-now : baekjoon silver 2
+now : baekjoon silver 1
